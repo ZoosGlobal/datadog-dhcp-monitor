@@ -300,7 +300,7 @@ Message: DHCP scope {{scopename.name}} is {{value}}% utilized — free IPs may r
 
 <div align="center">
 
-**Version 1.0.0 · Last Updated: ![Last Updated](https://img.shields.io/github/last-commit/ZoosGlobal/datadog-dhcp-monitor)**
+**Version 1.0.0 · Last Updated: <!--LAST_UPDATED-->**
 © 2026 Zoos Global · <a href="LICENSE">MIT License</a>
 
 </div>
